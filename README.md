@@ -154,7 +154,7 @@ The config here is very similar to the other components we already made, but we'
 
 #### wallet
 
-Now we can create a wallet that talks to our full_node. Create a file named `wallet.yaml`:
+Now we can create a wallet that talks to our full_node.  Create  a  file  named `wallet.yaml`:
 
 ```yaml
 apiVersion: k8s.chia.net/v1
